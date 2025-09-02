@@ -1,0 +1,111 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "c0d0efb3b2e9b07e35cec7b87f6779f9f99887aafe19143ae3100f14efbefaa1"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.12"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "django-admin": {
+            "hashes": [
+                "sha256:43c9f94ca5ad498789c0282691931c609c8e26db61aeb49ae8ad90d15b80cb75",
+                "sha256:a92f9fb21f63edabb5db9030f36b62c6c16a0187183e7e7de4142aee4472b70f"
+            ],
+            "index": "pypi",
+            "version": "==2.0.2"
+        },
+        "django-excel-response2": {
+            "hashes": [
+                "sha256:404b28818a262153559155239b719ba50e3c09484d638acdaadadfb309fc1b56",
+                "sha256:fe0c54207caf7efefcad689427bffad9209808e6102becb07967d5f8c92b82c7"
+            ],
+            "version": "==3.0.6"
+        },
+        "django-six": {
+            "hashes": [
+                "sha256:50816cf52e16814dff58eacd4883d9e5a43be37e53dcbd99323d1139ff89f73b",
+                "sha256:9ad505d101ac3ce5a59d22693fcf77b4b19764020e0c7edfe939d220cafbf3a9"
+            ],
+            "version": "==1.0.5"
+        },
+        "excel-base": {
+            "hashes": [
+                "sha256:3cdd3ef3366422eda12c7a72157053c8cbd06bcfe63a9280bc443ed21186372f",
+                "sha256:5b3f2ead44a1b35ed3099e127fc3de9d6eb453bba9acc1058af215e21b4ee20c"
+            ],
+            "version": "==1.0.4"
+        },
+        "isoweek": {
+            "hashes": [
+                "sha256:73f3f7bac443e05a3ab45c32a72048b0c4f26d53d81462ec4b142c7581d3ffe8",
+                "sha256:d3324c497d97f1534669de225ec877964222e4cc773a4a99063086f7a4e342b6"
+            ],
+            "version": "==1.3.3"
+        },
+        "python-dateutil": {
+            "hashes": [
+                "sha256:37dd54208da7e1cd875388217d5e00ebd4179249f90fb72437e91a35459a0ad3",
+                "sha256:a8b2bc7bffae282281c8140a97d3aa9c14da0b136dfe83f850eea9a5f7470427"
+            ],
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
+            "version": "==2.9.0.post0"
+        },
+        "screen": {
+            "hashes": [
+                "sha256:29009e0306d005679cc43c8cd69856a046265433310c10e71920591de3c58fda",
+                "sha256:aebfe90de7b8a646d4f3c2b214bd6ffa2ab12ed9d0b14c08620d9c7f7b8ee670"
+            ],
+            "version": "==1.0.1"
+        },
+        "six": {
+            "hashes": [
+                "sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274",
+                "sha256:ff70335d468e7eb6ec65b95b99d3a2836546063f63acc5171de367e834932a81"
+            ],
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
+            "version": "==1.17.0"
+        },
+        "timeconvert": {
+            "hashes": [
+                "sha256:1f4ca99a7e88afe6e19d2d7578078555288055e362f0d170a1e35a8dadf38f03",
+                "sha256:9fa7f2eb43c17b8636171c98a8f599d9308b003395322f11cd4cdaba68cdc89a"
+            ],
+            "markers": "python_version >= '3.5'",
+            "version": "==3.0.13"
+        },
+        "tzdata": {
+            "hashes": [
+                "sha256:1a403fada01ff9221ca8044d701868fa132215d84beb92242d9acd2147f667a8",
+                "sha256:b60a638fcc0daffadf82fe0f57e53d06bdec2f36c4df66280ae79bce6bd6f2b9"
+            ],
+            "markers": "python_version >= '2'",
+            "version": "==2025.2"
+        },
+        "tzlocal": {
+            "hashes": [
+                "sha256:cceffc7edecefea1f595541dbd6e990cb1ea3d19bf01b2809f362a03dd7921fd",
+                "sha256:eb1a66c3ef5847adf7a834f1be0800581b683b5608e74f86ecbcef8ab91bb85d"
+            ],
+            "markers": "python_version >= '3.9'",
+            "version": "==5.3.1"
+        },
+        "xlwt": {
+            "hashes": [
+                "sha256:a082260524678ba48a297d922cc385f58278b8aa68741596a87de01a9c628b2e",
+                "sha256:c59912717a9b28f1a3c2a98fd60741014b06b043936dcecbc113eaaada156c88"
+            ],
+            "version": "==1.3.0"
+        }
+    },
+    "develop": {}
+}
