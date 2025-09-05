@@ -1,1 +1,1 @@
-web: gunicorn Eproject.Eproject.wsgi:application
+web: gunicorn --chdir Eproject Eproject.wsgi:application
